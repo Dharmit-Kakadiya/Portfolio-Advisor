@@ -1,3 +1,5 @@
+pip --upgrade
+streamlit
 pandas
 matplotlib
 sqlite3
